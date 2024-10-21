@@ -1,0 +1,8 @@
+0 Leer 0 0 white
+1 Fichte 2 5 yellow
+2 Buche 3 5 orange
+3 Eiche 6 5 green
+4 Ahorn 4 5 blue
+5 Birke 4 5 purple
+6 Linde 5 5 brown
+126 Abgebrannt 0 0 black

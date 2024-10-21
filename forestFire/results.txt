@@ -1,0 +1,11 @@
+
+for 100x100, 30 steps
+
+Temperature Update:
+	No parallel: 1 - 2 seconds
+
+	Parallelization of inner temperatures: ~0.01 seconds
+
+Fire Update:
+	No parallel: 0.06 seconds
+	Parallelization: 0.03 seconds

@@ -1,0 +1,22 @@
+# the size of the map in km (map will always be squared)
+mapSize=100
+# number of pieces the map is cut along each axis
+mapGranularity=100
+# the mean temperature to start with
+tempMean=20
+# the standard deviation
+tempStd=3
+# the nmber of fires to start with (normal randomly distributed)
+numberStartFires=3
+# the number of iterations in the simulation
+numberIterations=50
+# the x direction of the wind
+winddx=1
+# the y direction of the wind
+winddy=1
+# the ratio of trees
+treeRatio=0.3
+# the map with trees that is used as start; if none is given a random map is created
+initialTreeMap=../start_trees.txt
+# whether or not the output should be written to file
+outputToFile=1
