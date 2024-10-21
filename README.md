@@ -10,27 +10,9 @@ This tool enables the simulation of the spread of one or more forest fires under
 * Number of fire sources
 * Size of the grid / "forest"
 
-In addition to the highly performant `C++` implementation using several parallelisation calculations, the results can also be visualised directly via `Python`, as in the following examples:
+In addition to the highly performant `C++` implementation using several parallelisation calculations, the results can also be visualised directly via `Python`, as in the following example:
 
-![Example1](./image/README/ex1.mp4 "example1")
-
-
-```
-<video src="./image/README/ex1.mp4" width="320" height="240" controls></video>
-```
-
-
-```html
-<video width="320" height="240" controls>
-  <source src="./image/README/ex1.mp4" type="video/mp4">
-</video>
-```
-
-
-```
-![](/image/README/ex1.mp4)
-```
-
+https://github.com/user-attachments/assets/bb5957bf-e05e-4689-8e52-902b341f09bf
 
 ## Installation
 
